@@ -1,7 +1,7 @@
-### Olá! Eu sou o Lucas Lira :)
+### Olá! Eu sou o Lucas Lira 🤙
 
-- 🔭 Atualmente estou trabalhando em Desenvolvimento web java 
-- 🌱 Atualmente estudo: Lógica de programação, HTML & CSS, Java, JavaScript, Bootstrap, React, React JS, My SQL, Sistemas Mobile, Ferramentas de Prototipagem.
+- 🧑‍💻 Atualmente estou trabalhando em Desenvolvimento web java 
+- 📚 Atualmente estudo: Lógica de programação, HTML & CSS, Java, JavaScript, Bootstrap, React, React JS, My SQL, Sistemas Mobile, Ferramentas de Prototipagem.
 - 📫 Contate-me no email: lira.lucas62@gmail.com
 
 <div align="center">
@@ -21,7 +21,7 @@
   <img align="center" alt="Tutinhas-GIT" height="30" width="40" src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor">
 </div>
   
-  ##
+  ###
   
   <div> 
   <a href="https://instagram.com/_liralucass" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
