@@ -1,6 +1,6 @@
-### Olá! Eu sou o Lucas Lira 🤙
+### Olá! Eu sou o Lucas Lira ;)
 
-- 🧑‍💻 Atualmente estou trabalhando em Desenvolvimento web java 
+- 🧑‍💻 Atualmente estou trabalhando em Desenvolvimento Web Java 
 - 📚 Atualmente estudo: Lógica de programação, HTML & CSS, Java, JavaScript, Bootstrap, React, React JS, My SQL, Sistemas Mobile, Ferramentas de Prototipagem.
 - 📫 Contate-me no email: lira.lucas62@gmail.com
 
