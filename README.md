@@ -1,4 +1,4 @@
-- 👋 Olá, sou o Lucas Lira.
+- 👋 Olá, eu sou o Lucas Lira.
 - 🧑‍💻 Focado em Desenvolvimento Web Java. 
 - 📚 Estudo HTML, CSS, JAVA, JavaScript, Bootstrap, React, My SQL.
 - 💻 Utilizo: Figma, Git, Trello e Visual Studio Code.
