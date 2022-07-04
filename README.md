@@ -17,8 +17,8 @@
 
 <div align="center">
   <a href="https://github.com/Tutinhas">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tutinhas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tutinhas&layout=compact&theme=dracula"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Tutinhas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tutinhas&layout=compact&theme=dracula"/>
 </div>
   
   <div style="display: inline_block"><br>
