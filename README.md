@@ -1,17 +1,19 @@
 <!-- ### Hello Hello, me chamo Lucas e seja Bem-vindo👋 -->
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2356FFD9&size=18&duration=6000&center=true&vCenter=true&width=600&lines=Hello+World+%3C3)](https://git.io/typing-svg)<br>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2356FFD9&size=18&center=true&vCenter=true&width=600&lines=Ol%C3%A1+Devs%2C+me+chamo+Lucas%2C+seja+bem-vindo+ao+meu+perfil!+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2356FFD9&size=18&center=true&vCenter=true&width=600&lines=Ol%C3%A1+Devs%2C+me+chamo+Pedro%2C+seja+bem-vindo+ao+meu+perfil!+)](https://git.io/typing-svg)
 
 <div> 
   <h2> Sobre mim: 🧑🏻‍💻  </h2>
   <p> 🎓 Aluno do Instituto PROA, cursando Desenvolvimento Web Java. </p>
-  <p> 🖱️ Buscando me aprimorar e ingressar na área.
-  👨🏻‍💻 Focado em Desenvolvimento Web Java.
-  📚 Estudo HTML, CSS, JAVA, JavaScript, Bootstrap, React, My SQL.
-  💻 Utilizo: Figma, Git, Trello e Visual Studio Code.
-  📫 Contate-me no email: lira.lucas62@gmail.com</p>
+  <p> 🖱️ Buscando me aprimorar e ingressar na área. </p>
+  <p> 👨🏻‍💻 Focado em Desenvolvimento Web Java. </p>
+  <p> 📚 Estudo HTML, CSS, JAVA, JavaScript, Bootstrap, React, My SQL. </p>
+  <p> 💻 Utilizo: Figma, Git, Trello e Visual Studio Code. </p>
+  <p> 📫 Contate-me no email: lira.lucas62@gmail.com </p>
 </div>
+
+<hr>
 
 <div align="center">
   <a href="https://github.com/Tutinhas">
