@@ -1,8 +1,17 @@
-- 👋 Olá, eu sou o Lucas Lira.
-- 🧑‍💻 Focado em Desenvolvimento Web Java. 
-- 📚 Estudo HTML, CSS, JAVA, JavaScript, Bootstrap, React, My SQL.
-- 💻 Utilizo: Figma, Git, Trello e Visual Studio Code.
-- 📫 Contate-me no email: lira.lucas62@gmail.com
+<!-- ### Hello Hello, me chamo Lucas e seja Bem-vindo👋 -->
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2356FFD9&size=18&duration=6000&center=true&vCenter=true&width=600&lines=Hello+World+%3C3)](https://git.io/typing-svg)<br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2356FFD9&size=18&center=true&vCenter=true&width=600&lines=Ol%C3%A1+Devs%2C+me+chamo+Lucas%2C+seja+bem-vindo+ao+meu+perfil!+)](https://git.io/typing-svg)
+
+<div> 
+  <h2> Sobre mim: 🧑🏻‍💻  </h2>
+  <p> 🎓 Aluno do Instituto PROA, cursando Desenvolvimento Web Java. </p>
+  <p> 🖱️ Buscando me aprimorar e ingressar na área.
+  👨🏻‍💻 Focado em Desenvolvimento Web Java.
+  📚 Estudo HTML, CSS, JAVA, JavaScript, Bootstrap, React, My SQL.
+  💻 Utilizo: Figma, Git, Trello e Visual Studio Code.
+  📫 Contate-me no email: lira.lucas62@gmail.com</p>
+</div>
 
 <div align="center">
   <a href="https://github.com/Tutinhas">
@@ -11,6 +20,10 @@
 </div>
   
   <div style="display: inline_block"><br>
+  <div>
+ <h2 align="center"> ᴛᴇᴄɴᴏʟᴏɢɪᴀs 🖥️</h2>
+ <div align="center">
+   <span>
   <img align="center" alt="Tutinhas-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
   <img align="center" alt="Tutinhas-GIT" height="30" width="40" src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor">
   <img align="center" alt="Tutinhas-Trello" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg">
@@ -22,11 +35,14 @@
   <img align="center" alt="Tutinhas-BTST" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="Tutinhas-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Tutinhas-MySQL" height="30" width="40" src="https://icongr.am/devicon/mysql-original.svg?size=128&color=ffffff">
+  </span>
 </div>
   
   ###
   
-  <div> 
+  <div>
+   <h2 align="center"> Contatos📱</h2>
+   <div align="center">
   <a href="https://instagram.com/_liralucass" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:lira.lucas62@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lucas-lira-86869b1b0/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
