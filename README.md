@@ -9,7 +9,7 @@
   <p> 🖱️ Buscando me aprimorar e ingressar na área. </p>
   <p> 👨🏻‍💻 Focado em Desenvolvimento Web Java. </p>
   <p> 📚 Estudo HTML, CSS, JAVA, JavaScript, Bootstrap, React, My SQL. </p>
-  <p> 💻 Utilizo: Figma, Git, Trello e Visual Studio Code. </p>
+  <p> 💻 Utilizo Figma, Git, Trello e Visual Studio Code. </p>
   <p> 📫 Contate-me no e-mail: lira.lucas62@gmail.com </p>
 </div>
 
