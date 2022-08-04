@@ -5,9 +5,9 @@
 
 <div> 
   <h2> Sobre mim: 🧑🏻‍💻  </h2>
-  <p> 🎓 Aluno do Instituto PROA, cursando Desenvolvimento Web Java. </p>
+  <p> 🎓 Ex-Aluno do Instituto PROA, formado em Desenvolvimento Web Java. </p>
   <p> 🖱️ Buscando me aprimorar e ingressar na área. </p>
-  <p> 👨🏻‍💻 Focado em Desenvolvimento Web Java. </p>
+  <p> 👨🏻‍💻 Focado em Desenvolvimento Full Stack Web Java. </p>
   <p> 📚 Estudo HTML, CSS, JAVA, JavaScript, Bootstrap, React, My SQL. </p>
   <p> 💻 Utilizo Figma, Git, Trello e Visual Studio Code. </p>
   <p> 📫 Contate-me no e-mail: lira.lucas62@gmail.com </p>
@@ -23,7 +23,7 @@
   
   <div style="display: inline_block"><br>
   <div>
- <h2 align="center"> ᴛᴇᴄɴᴏʟᴏɢɪᴀs 🖥️</h2>
+ <h2 align="center"> Tecnologias 🖥️</h2>
  <div align="center">
    <span>
   <img align="center" alt="Tutinhas-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
