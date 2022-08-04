@@ -5,7 +5,7 @@
 
 <div> 
   <h2> Sobre mim: 🧑🏻‍💻  </h2>
-  <p> 🎓 Ex-Aluno do Instituto PROA, formado em Desenvolvimento Web Java. </p>
+  <p> 🎓 Ex-Aluno do Instituto PROA, formado em Programação Web Java. </p>
   <p> 🖱️ Buscando me aprimorar e ingressar na área. </p>
   <p> 👨🏻‍💻 Focado em Desenvolvimento Full Stack Web Java. </p>
   <p> 📚 Estudo HTML, CSS, JAVA, JavaScript, Bootstrap, React, My SQL. </p>
