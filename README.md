@@ -4,7 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2356FFD9&size=18&center=true&vCenter=true&width=600&lines=Ol%C3%A1+Devs%2C+me+chamo+Lucas%2C+seja+bem-vindo+ao+meu+perfil!+)](https://git.io/typing-svg)
 
 <div> 
-  <h2> Sobre mim: 👨🏻‍🦱👋🏻 </h2>
+  <h2> Sobre mim: 👋🏻 </h2>
   <p> 🎓 Formado em Programação Web Java, ex-aluno PROA. </p>
   <p> 🖱️ Buscando me aprimorar e ingressar na área. </p>
   <p> 👨🏻‍💻 Focado em Desenvolvimento Full Stack Web Java. </p>
