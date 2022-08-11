@@ -6,9 +6,9 @@
 <div> 
   <h2> Sobre mim: 👋🏻 </h2>
   <p> 🎓 Formado em Programação Web Java, ex-aluno PROA. </p>
-  <p> ✍🏻 Buscando me aprimorar e ingressar na área. </p>
+  <p> 📚 Buscando me aprimorar e ingressar na área. </p>
   <p> 👨🏻‍💻 Focado em Desenvolvimento Full Stack Web Java. </p>
-  <p> 📚 Estudo HTML, CSS, Java, JavaScript, Bootstrap, React, My SQL. </p>
+  <p> ✍🏻 Estudo HTML, CSS, Java, JavaScript, Bootstrap, React, My SQL. </p>
   <p> 💻 Utilizo Figma, Git, Trello e Visual Studio Code. </p>
   <p> 📫 Contate-me no e-mail: lira.lucas62@gmail.com </p>
 </div>
