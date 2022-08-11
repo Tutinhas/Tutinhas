@@ -11,7 +11,7 @@
   <p> ✍🏻 Estudando HTML, CSS, Java, JavaScript, Bootstrap, React, e SQL. </p>
   <p> 💻 Utilizo Figma, Git, Trello, MySQL e Visual Studio Code. </p>
   <p> 📫 Contate-me no e-mail: lira.lucas62@gmail.com </p>
-  <p> 💙 Linkedin: https://www.linkedin.com/in/tutinhas/
+  <p> 💙 LinkedIn: https://www.linkedin.com/in/tutinhas/
 
 </div>
 
