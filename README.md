@@ -6,10 +6,10 @@
 <div> 
   <h2> Sobre mim: 👋🏻 </h2>
   <p> 🎓 Formado em Programação Web Java, ex-aluno PROA. </p>
-  <p> 📚 Buscando me aprimorar, me aperfeiçoar e ingressar na área. </p>
-  <p> 👨🏻‍💻 Focado no Desenvolvimento Full Stack Web Java. </p>
-  <p> ✍🏻 Estudando HTML, CSS, Java, JavaScript, Bootstrap, React, e SQL. </p>
-  <p> 💻 Utilizo Figma, Git, Trello, MySQL e Visual Studio Code. </p>
+  <p> 📚 Buscando me aprofundar, me aprimorar e me aperfeiçoar na área. </p>
+  <p> 👨🏻‍💻 Focado no Desenvolvimento Full Stack Web Java/Desenvolvimento NetSuite. </p>
+  <p> ✍🏻 Estudando HTML, CSS, Java, JavaScript, Bootstrap, React, SQL, SCRUM e NetSuite. </p>
+  <p> 💻 Utilizo Figma, Git, Jira, Miro, Trello, MySQL e Visual Studio Code. </p>
   <p> 📫 Contate-me no e-mail: lira.lucas62@gmail.com </p>
   <p> 💙 LinkedIn: https://www.linkedin.com/in/tutinhas/
 
