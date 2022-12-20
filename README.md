@@ -5,7 +5,7 @@
 
 <div> 
   <h2> Sobre mim: 👋🏻 </h2>
-  <p> 🎓 Formado em Programação Web Java, ex-aluno PROA. </p>
+  <p> 🎓 Formado em Programação Web Java, pelo Instituto PROA/Senac. </p>
   <p> 📚 Buscando me aprofundar, me aprimorar e me aperfeiçoar na área. </p>
   <p> 👨🏻‍💻 Focado no Desenvolvimento Full Stack Web Java/Desenvolvimento Oracle NetSuite. </p>
   <p> 💻 Utilizo Figma, Git, Jira, Miro, Trello, MySQL e Visual Studio Code. </p>
