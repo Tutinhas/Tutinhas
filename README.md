@@ -31,6 +31,7 @@
   <img align="center" alt="Tutinhas-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
   <img align="center" alt="Tutinhas-GIT" height="30" width="40" src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor">
   <img align="center" alt="Tutinhas-JIRA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg">
+  <img align="center" alt="Tutinhas-Confluence" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" />
   <img align="center" alt="Tutinhas-Trello" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg">
   <img align="center" alt="Tutinhas-VSCODE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img align="center" alt="Tutinhas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
