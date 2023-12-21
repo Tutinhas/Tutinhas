@@ -7,7 +7,7 @@
   <h2> Sobre mim: 👋🏻 </h2>
   <p> 🎓 Formado em Programação Web Java, pelo Instituto PROA/Senac. </p>
   <p> 🎓 Formado no Discovery ao Delivery, pelo T.I 360 Experience Lab. </p>
-  <p> 📚 Buscando me aperfeiçoar, me aprimorar e me aprofundar no ramo/área. </p>
+  <p> 📚 Buscando me aperfeiçoar, me aprimorar e me aprofundar no ramo/área de negócios/produtos/tecnologia. </p>
   <p> 👨🏻‍💻 Focado no desenvolvimento/gestão de produtos, produtos digitais e transformação digital. </p>
   <p> 💻 Utilizo Figma, Git, Jira, Confluence, Miro, Trello, MySQL e Visual Studio Code. </p>
   <p> 📫 Contate-me no e-mail: lira.lucas62@gmail.com </p>
