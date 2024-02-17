@@ -13,7 +13,6 @@
   <p> 💻 Utilizo Figma, Git, Jira, Confluence, Miro, Trello, MySQL e Visual Studio Code. </p>
   <p> 📫 Contate-me no e-mail: lira.lucas62@gmail.com </p>
   <p> 💙 LinkedIn: https://www.linkedin.com/in/tutinhas/
-
 </div>
 
 <hr>
