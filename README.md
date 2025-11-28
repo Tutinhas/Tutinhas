@@ -8,7 +8,7 @@
  <p> 🎓 Cursando Gestão Comercial, pela Fatec Ipiranga. </p>
   <p> 🎓 Formado em Programação Web Java, pelo Instituto PROA/Senac. </p>
   <p> 🎓 Formado no Discovery ao Delivery, pelo T.I 360 Experience Lab. </p>
-  <p> 📚 Buscando me aperfeiçoar, me aprimorar e me aprofundar na área/ramo comercial de negócios, produtos, serviços, tecnologia e vendas. </p>
+  <p> 📚 Buscando me aperfeiçoar, me aprimorar e me aprofundar na área comercial de negócios, produtos, serviços, tecnologia e vendas. </p>
   <p> 👨🏻‍💻 Focado no desenvolvimento/gestão de produtos, serviços e transformação digital. </p>
   <p> 💻 Utilizo Figma, Git, Jira, Confluence, Miro, Trello, MySQL e Visual Studio Code. </p>
   <p> 📫 Contate-me no e-mail: lira.lucas62@gmail.com </p>
